@@ -1,4 +1,4 @@
-# 🎥 YouTube RAG Assistant — Senior GenAI Engineer Project
+# 🎥 YouTube RAG Assistant — Production - Style  GenAI Engineer Architecture
 
 ### LangChain · OpenAI · ChromaDB · Streamlit · Modular Architecture
 
