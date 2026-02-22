@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector DB storage (large files)
+chroma_store/
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

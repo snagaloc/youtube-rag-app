@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langdetect
+youtube-transcript-api
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+tiktoken
